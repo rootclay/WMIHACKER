@@ -1,12 +1,12 @@
-# WMIHACKER（Only 135 Port）
+# WMIHACKER（No need 445 Port）
 [中文版(Chinese version)](README_zh.md)
 
 > Disclaimer: The technology involved in this project is only for security learning and  defense purposes, illegal use is prohibited!
 
 
-Bypass anti-virus software lateral movement command execution test tool（Only 135 Port）
+Bypass anti-virus software lateral movement command execution test tool（No need 445 Port）
 
-Introduction: The common WMIEXEC, PSEXEC tool execution command is to create a service or call Win32_Process.create, these methods have been intercepted by Anti-virus software 100%, so we created WMIHACKER (Bypass anti-virus software lateral movement command execution test tool (Only 135 Port)).
+Introduction: The common WMIEXEC, PSEXEC tool execution command is to create a service or call Win32_Process.create, these methods have been intercepted by Anti-virus software 100%, so we created WMIHACKER (Bypass anti-virus software lateral movement command execution test tool（No need 445 Port）).
 
 Main functions: 1. Command execution; 2. File upload; 3. File download
 
