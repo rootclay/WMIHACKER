@@ -67,3 +67,8 @@ Usage:
 文件下载-下载远程主机calc.exe到本地c:\calc.exe
 
 `> cscript wmihacker_0.4.vbe /download 172.16.94.187 administrator "Password!" "c:\calc" "c:\windows\system32\calc.exe" `
+
+## 404星链计划
+<img src lazysrc="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
+
+WMIHACKER 现已加入 [404星链计划](https://github.com/knownsec/404StarLink)
