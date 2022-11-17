@@ -57,3 +57,9 @@ File upload: copy the local calc.exe to the remote host c:\calc.exe
 File download: Download the remote host calc.exe to the local c:\calc.exe
 
 `> cscript wmihacker_0.4.vbe /download 172.16.94.187 administrator "Password!" "c:\calc" "c:\windows\system32\calc.exe" `
+
+
+## 404Starlink
+<img src lazysrc="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
+
+WMIHACKER has joined [404Starlink](https://github.com/knownsec/404StarLink)
