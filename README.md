@@ -60,6 +60,6 @@ File download: Download the remote host calc.exe to the local c:\calc.exe
 
 
 ## 404Starlink
-<img src src="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
+<img src="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
 
 WMIHACKER has joined [404Starlink](https://github.com/knownsec/404StarLink)
