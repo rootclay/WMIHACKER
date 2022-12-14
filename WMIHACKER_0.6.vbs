@@ -4,7 +4,7 @@ Const wbemFlagReturnImmediately = &h10
 Const wbemFlagForwardOnly = &h20
 '################################ Temp Result File , Change it to where you like
 Const Path = "C:\Windows\Temp\"
-Const FileName = "wmi.txt" 
+Const FileName = "appdata.txt" 
 Const timeOut = 3000 ' 1000ms = 1s
 Const strKeyPath = "SOFTWARE\Classes\hello"
 Const strName = "Part2"
