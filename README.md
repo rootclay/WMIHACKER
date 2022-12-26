@@ -63,3 +63,7 @@ File download: Download the remote host calc.exe to the local c:\calc.exe
 <img src="https://github.com/knownsec/404StarLink-Project/raw/master/logo.png" width="30%">
 
 WMIHACKER has joined [404Starlink](https://github.com/knownsec/404StarLink)
+
+## BlackHat Asia 2020 Arsenal
+
+[https://www.blackhat.com/asia-20/arsenal/schedule/#wmihacker-a-new-way-to-use-135-port-lateral-movement-bypass-av-and-transfer-file-18995](https://www.blackhat.com/asia-20/arsenal/schedule/#wmihacker-a-new-way-to-use-135-port-lateral-movement-bypass-av-and-transfer-file-18995)
