@@ -67,3 +67,7 @@ WMIHACKER has joined [404Starlink](https://github.com/knownsec/404StarLink)
 ## BlackHat Asia 2020 Arsenal
 
 [https://www.blackhat.com/asia-20/arsenal/schedule/#wmihacker-a-new-way-to-use-135-port-lateral-movement-bypass-av-and-transfer-file-18995](https://www.blackhat.com/asia-20/arsenal/schedule/#wmihacker-a-new-way-to-use-135-port-lateral-movement-bypass-av-and-transfer-file-18995)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rootclay/WMIHACKER&type=Date)](https://star-history.com/#rootclay/WMIHACKER&Date)
