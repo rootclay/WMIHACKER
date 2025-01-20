@@ -1,8 +1,6 @@
 # WMIHACKER（No need 445 Port）
 [中文版(Chinese version)](README_zh.md)
 
-> Contact: _xiangshan(Wechat)
-
 > Disclaimer: The technology involved in this project is only for security learning and  defense purposes, illegal use is prohibited!
 
 
